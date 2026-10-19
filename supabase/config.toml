@@ -1,0 +1,4 @@
+project_id = "sfdwgnnvisdafmatmlwb"
+
+[functions.medibot-ai]
+verify_jwt = false
